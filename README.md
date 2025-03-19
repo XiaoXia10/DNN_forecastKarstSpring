@@ -13,7 +13,7 @@ The resample data can be found [here](https://www.dropbox.com/scl/fo/r511pkjkm0t
 
 The training and testing data, and trained models of the auto-encoders can be found [here](https://www.dropbox.com/scl/fo/ktv1ys9vex9541808xwzr/AIFaTaIpL1Gfch0O8mHYlmE?rlkey=jvt1ehljzfbp0mudl1qxzs4ln&st=h6h8s9lg&dl=0).
 
-The training and testing data, and trained models of the Graph WavwNet can be found [here](https://www.dropbox.com/scl/fo/ylnhaz27x6v5zvcprhmtm/ACJw8_jMrwzH0-JvrX2mN3o?rlkey=qaizwdichofixnxor1le0bxsi&st=24weh4iz&dl=0).
+The training and testing data, and trained models of the Graph WaveNet can be found [here](https://www.dropbox.com/scl/fo/ylnhaz27x6v5zvcprhmtm/ACJw8_jMrwzH0-JvrX2mN3o?rlkey=qaizwdichofixnxor1le0bxsi&st=24weh4iz&dl=0).
 
 
 ### Package Requirements
@@ -25,5 +25,4 @@ The training and testing data, and trained models of the Graph WavwNet can be fo
 - torch (2.1.2+cu121)
 - tensorflow (2.14.0)
 
-Need help? 
-If you are a student and need help, contact me at xl3138 (at) princeton (dot) edu. I will be happy to help you. 
+Need help? Contact me at xl3138 (at) princeton (dot) edu. 
