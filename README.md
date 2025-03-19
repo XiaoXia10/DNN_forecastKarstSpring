@@ -1,7 +1,7 @@
 # Comparison of Forecasting Capabilities of Deep Learning Models with Varying Time Series Resolution for Accurate Karst Spring Discharge Predictions
 By: Xiao Xia Liang, Philippe Renard, Erwan Gloaguen, Julien Straubhaar, and Maxime Claprood
 
-This paper presents predictions of karst spring discharges using 3 different DNN models. The resolutions of the time series are tested along with forecasting capabilities of the models. 
+This paper presents predictions of karst spring discharges using 3 different DNN models. The resolutions of the time series are tested along with the forecasting capabilities of the models. 
 
 The models used are [GRU and LSTM auto-encoder](https://arxiv.org/pdf/1406.1078) and [Graph WaveNet](https://arxiv.org/pdf/1906.00121)
 
