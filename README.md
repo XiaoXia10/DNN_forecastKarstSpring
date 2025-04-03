@@ -25,4 +25,3 @@ The training and testing data, and trained models of the Graph WaveNet can be fo
 - torch (2.1.2+cu121)
 - tensorflow (2.14.0)
 
-Need help? Contact me at xl3138 (at) princeton (dot) edu. 
