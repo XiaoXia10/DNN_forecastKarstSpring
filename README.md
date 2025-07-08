@@ -1,4 +1,4 @@
-# Comparison of Forecasting Capabilities of Deep Learning Models with Varying Time Series Resolution for Accurate Karst Spring Discharge Predictions
+# A Comparative Evaluation of Deep Neural Networks for Spatiotemporal Forecasting of Groundwater Levels in the Betteraz Karst System, Switzerland
 By: Xiao Xia Liang, Philippe Renard, Erwan Gloaguen, Julien Straubhaar, and Maxime Claprood
 
 This paper presents predictions of karst spring discharges using 3 different DNN models. The resolutions of the time series are tested along with the forecasting capabilities of the models. 
