@@ -1,7 +1,7 @@
-# A Comparative Evaluation of Deep Neural Networks for Spatiotemporal Forecasting of Groundwater Levels in the Betteraz Karst System, Switzerland
-By: Xiao Xia Liang, Philippe Renard, Erwan Gloaguen, Julien Straubhaar, and Maxime Claprood
+# Evaluating the Influence of Temporal Data Resolution on the Performance of Deep Neural Networks for Karst Groundwater Forecasting
 
-This paper presents predictions of karst spring discharges using 3 different DNN models. The resolutions of the time series are tested along with the forecasting capabilities of the models. 
+By: Xiao Xia Liang, Dany Lauzon, Erwan Gloaguen, Julien Straubhaar, Maxime Claprood, and Philippe Renard
+
 
 The models used are [GRU and LSTM auto-encoder](https://arxiv.org/pdf/1406.1078) and [Graph WaveNet](https://arxiv.org/pdf/1906.00121)
 
