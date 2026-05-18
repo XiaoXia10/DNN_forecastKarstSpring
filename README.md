@@ -4,7 +4,7 @@ By: Xiao Xia Liang, Dany Lauzon, Erwan Gloaguen, Julien Straubhaar, Maxime Clapr
 
 ###
 
-The models used are [GRU auto-encoder](https://arxiv.org/pdf/1406.1078) and [Graph WaveNet](https://arxiv.org/pdf/1906.00121)
+The models used are LSTM, [GRU auto-encoder](https://arxiv.org/pdf/1406.1078), and [Graph WaveNet](https://arxiv.org/pdf/1906.00121)
 
 The [Graph WaveNet codes](https://github.com/sshleifer/Graph-WaveNet) adapted for this work is the improved version from [Shleifer et al., (2019)](https://arxiv.org/pdf/1912.07390)
 
